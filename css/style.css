@@ -16864,3 +16864,38 @@ a.shop-now-btn {
     width: 101%;
   }
 }
+h1.per {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: xx-large;
+  text-shadow: 2px 2px 5px rgb(20, 61, 116);
+}
+h2.para {
+  font-size: x-large;
+}
+h1.card-title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #1f89ec;
+  text-align: center;
+  font-size: x-large;
+  border-bottom: 3px solid rgb(110, 106, 106);
+}
+.card-text {
+  padding-left: 8px;
+}
+.card {
+  border: 3px solid rgb(110, 106, 106);
+  box-shadow: 3px 3px 5px rgb(18, 90, 184);
+}
+ol {
+  font-size: large;
+}
+p {
+  font-size: large;
+}
+h1.act {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: xx-large;
+  text-shadow: 2px 2px 5px rgb(20, 61, 116);
+  padding-left: 40px;
+}
