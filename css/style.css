@@ -16897,5 +16897,9 @@ h1.act {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: xx-large;
   text-shadow: 2px 2px 5px rgb(20, 61, 116);
-  padding-left: 40px;
+  padding-left: 130px;
+}
+div.col-11 {
+  border: 3px solid rgb(127, 169, 247);
+  border-radius: 10px 10px 10px 10px;
 }
